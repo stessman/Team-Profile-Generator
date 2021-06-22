@@ -152,7 +152,7 @@ const parseEmpList = employeeList => {
                     <ul class="list-group">
                       <li class="list-group-item">ID: ${element.getId()}</li>
                       <li class="list-group-item">Email: <a href="mailto:${element.getEmail()}">${element.getEmail()}</a></li>
-                      <li class="list-group-item">GitHub: <a href="https://github.com/${element.getGitHubUsername()}">${element.getGitHubUsername()}</a></li>
+                      <li class="list-group-item">GitHub: <a href="https://github.com/${element.getGitHubUsername()}" target="_blank">${element.getGitHubUsername()}</a></li>
                     </ul>
                   </div>
                 </article>
