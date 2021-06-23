@@ -6,7 +6,7 @@ describe("Manager", () => {
         const userOfficeNumber = 133;
 
         const testUser = new Manager('Tom', 1, 'test@email.com', 133);
-        const result = testUser.getSchool();
+        const result = testUser.getOfficeNumber();
 
       expect(result).toEqual(userOfficeNumber);
     });

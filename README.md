@@ -17,8 +17,8 @@ This project was created to assist managers or project leads to create a visual 
 Open the Command Prompt and change your directory to the top level of this application. Once at that directory, run 'npm init -y.' Once this is completed you will need to run 'npm i'. Once this is done you should be good to go.
 
 ## Test Instructions
+At the top level of the project in your Command Prompt, run the command 'npm test'.
 
-///////////////////////////////////////Do
 ## Requirements
 - When the user is prompted for their team members and their information, then an HTML file is generated that displays a nicely formatted team roster based on user input.
 - When the user clicks on an email address in the HTML, then their default email program opens and populates the TO field of the email with the address.
@@ -32,4 +32,4 @@ Open the Command Prompt and change your directory to the top level of this appli
 ## Usage Information
 After the necessary installations are completed all the user needs to do is navigate to the top level directory of this project in the Command Prompt. Once there, the user should run 'node index.js.' Once entered, the user will be prompted a number of questions regarding information about their team members. When they are finished building their team, then they will be exited from the application and an HTML file will be created displaying their team members and their information.
 
-Link to Usage Video: [Usage Video](https://drive.google.com/file/d/1DA-Wunz53TqsX_9c4WkxqfKEHFwTFoT_/view) ////////////DO
+Link to Usage Video: [Usage Video](https://drive.google.com/file/d/1J-JQRkVG5J7GEDPZhB9DAn06IA8QW-X3/view)
